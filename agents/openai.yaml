@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game UI Panels"
+  short_description: "Implement game UI panels with reuse and QA"
+  default_prompt: "Use $game-ui-panels to implement or refactor a game UI panel with data binding, asset reuse, and verification."
